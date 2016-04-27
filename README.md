@@ -1,2 +1,2 @@
 # timetimetime
-timeismoney
+timeismoney so we only can play
